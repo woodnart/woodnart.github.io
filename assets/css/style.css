@@ -903,6 +903,13 @@ section {
 
 .about-us .content h3 {
   font-weight: 700;
+  font-size: 20px;
+}
+
+.about-us .content h2 {
+  display: flex;
+  text-align: right;
+  font-weight: 700;
   font-size: 34px;
 }
 
