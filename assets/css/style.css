@@ -908,7 +908,7 @@ section {
 
 .about-us .content h2 {
   display: flex;
-  text-align: right;
+  text-align: centrighter;
   font-weight: 700;
   font-size: 34px;
 }
